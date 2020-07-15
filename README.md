@@ -15,6 +15,4 @@ I followed the steps below to to have a kind of a workflow
 3. Set-up Firebase hosting
 4. Get ALL MOVIES from API
 5. Built Rows (as a component)
-6. BUilt the banner
-7. Built the NavBar
-8. Added Trailer Popups
+6. Built the banner

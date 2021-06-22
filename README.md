@@ -1,4 +1,4 @@
-Hey, Thanks for popping by to my Movie Sharing app :)
+Hey, Thanks for popping by to my "Movie Sharing" app :)
 
 What I am attempting to achieve is to create an app which works in a similar way to Netflix.
 
